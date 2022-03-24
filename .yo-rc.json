@@ -1,0 +1,11 @@
+{
+  "generator-jhipster": {
+    "appsFolders": ["car-app", "dealer-app", "gateway-app"],
+    "clusteredDbApps": {},
+    "directoryPath": "../",
+    "gatewayType": "SpringCloudGateway",
+    "jwtSecretKey": "MzFmNGU1YWJmYTlkMzczZTZhOGRjN2YwOWFjMDRkOTIxYWZlMTE3YmYxYTY4OGNlNzAyYmE2ZGJhMzY2M2Q3MmIyOGIzN2RmMDEwN2QxYjkwNzVkNjc5MGQwNzliMGZhNTJjOA==",
+    "monitoring": "prometheus",
+    "serviceDiscoveryType": "eureka"
+  }
+}
